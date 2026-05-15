@@ -1,0 +1,82 @@
+.muting{
+    background-color: rgb(19, 1, 5);
+    text-align: center;
+    background-image: url(yours.jpg);
+}
+.mu{
+    color: white;
+    background-color: #f10820;
+    justify-content: space-between;
+    display: flex;
+    padding: 10px;
+}
+.ting{
+    color: white; 
+    font-size: 30px;
+    padding: 20px;
+    font-style: italic;
+}
+
+.classroom{
+    color: white;
+    font-style: normal;
+    font-size: 28px;
+}
+.matama{
+    color:white ;
+
+}
+.matama{
+    font-size: 40px;
+}
+.matama{
+    font-style: normal;
+}
+.matama{
+    justify-content: center;
+}
+.matama{
+    padding: 30;
+}
+.matama{
+    display: flex;
+}
+.doo{
+    color: white; 
+    font-size: x-large;
+    font-style: normal;
+}
+.dor{
+    color: white;
+}
+.mutesi{
+    color: white;
+    list-style-type: none;
+}
+.lang{
+    color: white;
+}
+.loc{
+    color: white;
+}
+.offer{
+    color: white;
+    list-style-type: none;
+}
+.tel{
+color: white;
+ font-size: 28px;
+ list-style-type: none;
+}
+.email{
+    color: white;
+font-size: 28px;
+}
+.tsup{
+    color: white;
+    font-size: 28px;
+}
+.bbb{
+    color:white ;
+    list-style-type: none;
+}

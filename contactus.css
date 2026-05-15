@@ -1,0 +1,31 @@
+.red{
+    background-color: rgb(19, 1, 5);
+    text-align: center;
+     background-image: url(yours.jpg);
+}
+.blue{
+    color: white;
+    font-size: 28px;
+    font-weight: 200;
+    list-style-type: none;
+}
+.bb{
+    color: white;
+    font-size: 30px;
+    font-weight: 300; 
+}
+.mu{
+    color: white;
+    background-color: #f10820;
+    justify-content: space-between;
+    display: flex;
+    padding: 10px;
+}
+.loc{
+    color: white; 
+    font-size: 27px;
+}
+.bbb{
+    color:white ;
+    list-style-type: none;
+}
